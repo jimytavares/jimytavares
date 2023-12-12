@@ -23,4 +23,4 @@
 
 현재 Rio Grande do Norte의 관광부와 농업부에서 풀스택 개발자로 일하고 있습니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimytavares&show_icons=true&theme=dracula)
